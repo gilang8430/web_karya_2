@@ -1,0 +1,38 @@
+.body{
+  background-attachment: scroll;
+}
+.list{
+  color: red;
+  text-decoration: none;
+  position: relative;
+  left: 60px;
+  bottom: 40px;
+}
+
+.navbar{
+  background-color: aqua;
+  height: 50px;
+}
+
+.navbar-brand{
+  position: relative;
+  bottom: 5px;
+}
+
+.border1{
+  border: 1px solid black;
+  width: 800px;
+  height: 1500px;
+  position: relative;
+  left: 250px;
+  bottom: 1300px;
+  background-color: white;
+}
+
+.text{
+  text-align: center;
+}
+p{
+  text-align: justify;
+  margin: 10px;
+}
